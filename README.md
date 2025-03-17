@@ -24,13 +24,13 @@ I'm a **Software Engineer**, **DevOps Enthusiast**, and **Cybersecurity Enthusia
 - 🛡️ **Ethical hacking and cybersecurity research**
 
 ### 📊 GitHub Stats:
-![Aurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureldk&show_icons=true&theme=radical)
+![Aurel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aureldk&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureldk&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aureldk&layout=compact&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=aureldk&theme=darkhub)
+![trophy](https://github-profile-trophy.vercel.app/?username=aureldk&theme=radical&margin-w=15)
 
-![Snake animation](https://github.com/aureldk/aureldk/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/aureldk/aureldk/output/github-contribution-grid-snake.svg)
 
 ### 📬 Let's Connect!
 - 🌐 Portfolio: [Coming Soon]
