@@ -2,10 +2,6 @@
 
 I'm a **Software Engineer**, **DevOps Enthusiast**, and **Cybersecurity Enthusiast** passionate about building web applications, blockchain technologies, and cybersecurity. Currently, I'm a second-year student at **Epitech Bénin**, with aspirations to study **cybersecurity in the U.S.** 🚀
 
-![GitHub followers](https://img.shields.io/github/followers/aureldk?style=social)
-![GitHub stars](https://img.shields.io/github/stars/aureldk?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=aureldk&color=blue)
-
 ### 🔹 About Me:
 - 💻 Full-stack developer (HTML, Python, JavaScript, CSS, REACT, NEXT)
 - 📖 Learning **blockchain development, cybersecurity & DevOps**
@@ -22,15 +18,6 @@ I'm a **Software Engineer**, **DevOps Enthusiast**, and **Cybersecurity Enthusia
 - ☁️ **Cloud-based CI/CD pipeline automation**
 - 🎵 **Culture - A music platform with immersive visuals**
 - 🛡️ **Ethical hacking and cybersecurity research**
-
-### 📊 GitHub Stats:
-![Aurel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aureldk&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aureldk&layout=compact&theme=radical)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=aureldk&theme=radical&margin-w=15)
-
-![Snake animation](https://raw.githubusercontent.com/aureldk/aureldk/output/github-contribution-grid-snake.svg)
 
 ### 📬 Let's Connect!
 - 🌐 Portfolio: [Coming Soon]
