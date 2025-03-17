@@ -1,22 +1,28 @@
-Hi there, I'm Aurel DOSSOU KOHI! 👋
-I'm a Software Engineer, DevOps Enthusiast, and Cybersecurity Enthusiast passionate about building web applications, blockchain technologies, and cybersecurity. Currently, I'm a second-year student at Epitech Bénin, with aspirations to study cybersecurity in the U.S. 🚀
+### Hi there, I'm Aurel DOSSOU KOHI! 👋
 
-🔹 About Me:
-💻 Full-stack developer (HTML, CSS, JavaScript, REACT, NEXT)
-📖 Learning blockchain development, cybersecurity & DevOps
-🎯 Passionate about hacking, e-commerce, fintech, and cloud infrastructure
-💡 What I'm Working On:
-🎶 A music platform, with a unique visual identity
-🔒 Cybersecurity projects & CTF challenges
-🌍 Expanding my freelance business on Fiverr & Upwork
-🏗️ DevOps automation for cloud deployments
-🚧 Ongoing Projects:
-🔐 Cybersecurity tools and penetration testing scripts
-☁️ Cloud-based CI/CD pipeline automation
-🎵 Culture - A music platform with immersive visuals
-📬 Let's Connect!
-🌐 Portfolio: [Coming Soon]
-💼 LinkedIn: https://www.linkedin.com/in/aurel-dossou-kohi/
-🐦 Twitter: [Coming Soon]
-📩 Email: aurel.dossou-kohi@epitech.eu
+I'm a **Software Engineer**, **DevOps Enthusiast**, and **Cybersecurity Enthusiast** passionate about building web applications, blockchain technologies, and cybersecurity. Currently, I'm a second-year student at **Epitech Bénin**, with aspirations to study **cybersecurity in the U.S.** 🚀
+
+### 🔹 About Me:
+- 💻 Full-stack developer (HTML, Python, JavaScript, CSS, REACT, NEXT)
+- 📖 Learning **blockchain development, cybersecurity & DevOps**
+- 🎯 Passionate about **hacking, e-commerce, fintech, cloud infrastructure, and cybersecurity**
+
+### 💡 What I'm Working On:
+- 🎶 A **music platform**, with a unique visual identity
+- 🔒 Cybersecurity projects & CTF challenges
+- 🌍 Expanding my **freelance business** on Fiverr, COMEUP & Upwork
+- 🏗️ **DevOps automation for cloud deployments**
+
+### 🚧 Ongoing Projects:
+- 🔐 **Cybersecurity tools and penetration testing scripts**
+- ☁️ **Cloud-based CI/CD pipeline automation**
+- 🎵 **Culture - A music platform with immersive visuals**
+- 🛡️ **Ethical hacking and cybersecurity research**
+
+### 📬 Let's Connect!
+- 🌐 Portfolio: [Coming Soon]
+- 💼 LinkedIn: https://www.linkedin.com/in/aurel-dossou-kohi/
+- 🐦 Twitter: [@your_handle]
+- 📩 Email: aurel.dossou-kohi@epitech.eu
+
 Always open to exciting collaborations! 🚀
