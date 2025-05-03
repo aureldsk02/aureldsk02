@@ -41,7 +41,7 @@ Currently, I'm a second-year student at **Epitech Bénin**, driven by the desire
 - 🌐 Portfolio: _Coming Soon_
 - 💼 LinkedIn: [https://www.linkedin.com/in/aurel-dossou-kohi/](https://www.linkedin.com/in/aurel-dossou-kohi/)
 - 🐦 Twitter: _Coming Soon_
-- 📩 Email: [aurel.dossou-kohi@epitech.eu](mailto:aurel.dossou-kohi@epitech.eu)
+- 📩 Email: [aurel.dossou-kohi@outlook.com](mailto:aurel.dossou-kohi@outlook.com)
 
 ---
 
