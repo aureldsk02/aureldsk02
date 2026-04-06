@@ -116,14 +116,6 @@ class Aurel:
 
 <br/>
 
-<div align="center">
-  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=aureldsk02&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
 ---
 
 ## Featured Projects
