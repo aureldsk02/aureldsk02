@@ -152,7 +152,7 @@ philosophy:
 <br/>
 
 ---
-![Aurel DSK's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureldsk02&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aureldsk02&theme=chartreuse-dark)](https://git.io/streak-stats)
 <br/>
 
 ---
