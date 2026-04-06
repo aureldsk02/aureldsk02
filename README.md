@@ -1,19 +1,15 @@
 <div align="center">
 
 <div align="center">
-<!-- Bannière personnalisée -->
 <img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" style="object-fit: cover;" />
 <div align="center">
 
 # Aurel DOSSOU KOHI
 
 </div>
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+solutions+that+matter;Passionate+about+cybersecurity;Always+learning%2C+always+coding" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+solutions+that+matter;Passionate+about+cybersecurity;Always+learning%2C+always+coding" alt="Typing SVG" /></a>
 
 <br/>
-
-<!-- Badges sociaux premium -->
 <p align="center">
   <a href="https://aureldsk.me/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-A78BFA?style=for-the-badge&logoColor=white" />
@@ -31,9 +27,9 @@
 
 <br/>
 
-<!-- Citation philosophique -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talent%20hits%20a%20target%20no%20one%20else%20can%20hit%3B%20Genius%20hits%20a%20target%20no%20one%20else%20can%20see&author=Arthur%20Schopenhauer" />
-
+<p align="center">
+  <code>build</code> · <code>break</code> · <code>secure</code> · <code>repeat</code>
+</p>
 </div>
 
 <br/>
@@ -42,33 +38,41 @@
 
 ## About Me
 
-> *"The two enemies of human happiness are pain and boredom."* — I code to solve the first, and learn to avoid the second.
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
-Hey! I'm **Aurel**, third-year student at **Epitech Benin**, passionate about building technology that **matters**. From full-stack development to cybersecurity research, I thrive on solving complex problems and creating elegant solutions.
+### Aurel Dossou Kohi
 
-**My philosophy:** Build with purpose, think with depth, secure with precision.
+I’m a **3rd‑year Epitech Benin** student based in **Cotonou**.  
+I like building things that look simple on the outside, and stay solid under pressure.
 
-```python
-class Aurel:
-    def __init__(self):
-        self.location = "Cotonou, Benin 🇧🇯"
-        self.education = "Epitech Benin"
-        self.role = "Full-Stack Developer & Security Researcher"
-        self.motto = "Complexity is easy; simplicity is an art"
-        
-    def current_focus(self):
-        return {
-            "mastering": ["Advanced Pentesting", "Cloud Architecture", "Smart Contracts"],
-            "certifications": ["CEH", "OSCP"],
-            "exploring": "Intersection of security, DevOps, and blockchain"
-        }
-```
+- Full‑stack when it needs to ship fast
+- Security when it needs to be trusted
+- DevOps when it needs to scale
+
+<sub><b>Rule:</b> if it’s not understandable, it’s not finished.</sub>
+
+  </td>
+    <td width="38%" valign="top">
+
+### Now
+-  Web security & pentesting  
+-  Cloud / CI/CD / Docker  
+-  Smart contracts (learning + audit mindset)
+
+### Values
+- clarity > cleverness  
+- shipping > talking  
+- secure by default
+
+  </td>
+  </tr>
+</table>
 
 <br/>
 
----
-
-## Tech Stack
+### Tech Stack
 
 <div align="center">
 
