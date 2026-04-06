@@ -1,103 +1,224 @@
 <div align="center">
 
-<!-- Bannière minimaliste -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Aurel%20Dossou-Kohi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+<!-- Bannière WAOH avec effet 3D -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,2,5,6&text=AUREL%20DOSSOU-KOHI&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Cybersecurity%20Researcher%20•%20Cloud%20Architect&descSize=20&descAlignY=55&animation=twinkling&stroke=A78BFA&strokeWidth=2" width="100%"/>
+
+<!-- Effet de typing stylé -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=100&lines=The+will+to+create+is+everything+💜;Building+solutions+that+matter+🚀;Code+•+Security+•+Innovation+⚡;Always+learning%2C+always+building+🎯" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Badges sociaux premium -->
+<p align="center">
+  <a href="https://aureldsk.me/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-A78BFA?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aurel-dossou-kohi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aurel.dossou-kohi@epitech.eu">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/aureldsk02">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
 <!-- Citation philosophique -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=4000&pause=1000&color=6B7280&center=true&vCenter=true&width=700&height=60&lines=The+will+to+create+is+the+essence+of+life;Building+with+purpose%2C+thinking+with+depth;Code+is+poetry%2C+security+is+art" alt="Philosophy" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talent%20hits%20a%20target%20no%20one%20else%20can%20hit%3B%20Genius%20hits%20a%20target%20no%20one%20else%20can%20see&author=Arthur%20Schopenhauer" />
 
 </div>
+
+<br/>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-**Full-Stack Developer** • **Cybersecurity Researcher** • **Philosophy Enthusiast**
+> *"The two enemies of human happiness are pain and boredom."* — I code to solve the first, and learn to avoid the second.
 
-[Portfolio](https://aureldsk.me/) • [LinkedIn](https://www.linkedin.com/in/aurel-dossou-kohi/) • [Email](mailto:aurel.dossou-kohi@epitech.eu)
+Hey! I'm **Aurel**, third-year student at **Epitech Benin**, passionate about building technology that **matters**. From full-stack development to cybersecurity research, I thrive on solving complex problems and creating elegant solutions.
 
-</div>
+**My philosophy:** Build with purpose, think with depth, secure with precision.
 
-<br/>
-
-## Philosophy
-
-> *"Talent hits a target no one else can hit; Genius hits a target no one else can see."*  
-> — Arthur Schopenhauer
-
-I believe in building solutions that don't just work—they **transform**. Technology, like philosophy, should challenge our assumptions and reveal new possibilities.
-
-Currently exploring the intersection of **cybersecurity**, **cloud architecture**, and **decentralized systems** at Epitech Benin.
-
-<br/>
-
-## Current Focus
-
-```javascript
-const aurel = {
-  craft: ["Full-Stack Development", "Cloud Infrastructure", "Security Research"],
-  exploring: ["Advanced Penetration Testing", "Zero-Trust Architecture", "Smart Contracts"],
-  building: "Tilia — E-commerce platform empowering artisans",
-  philosophy: "Solve problems no one else sees"
-};
+```python
+class Aurel:
+    def __init__(self):
+        self.location = "Cotonou, Benin 🇧🇯"
+        self.education = "Epitech Benin"
+        self.role = "Full-Stack Developer & Security Researcher"
+        self.motto = "Complexity is easy; simplicity is an art"
+        
+    def current_focus(self):
+        return {
+            "building": "Tilia - E-commerce platform for artisans",
+            "mastering": ["Advanced Pentesting", "Cloud Architecture", "Smart Contracts"],
+            "certifications": ["CEH", "OSCP"],
+            "exploring": "Intersection of security, DevOps, and blockchain"
+        }
 ```
 
 <br/>
 
-## Arsenal
+---
 
-**Languages** • Python • JavaScript • TypeScript • Solidity • Bash
-
-**Frontend** • React • Next.js • TailwindCSS
-
-**Backend** • Django • Node.js • FastAPI
-
-**DevOps** • AWS • Docker • Kubernetes • Terraform
-
-**Security** • Kali • Burp Suite • Metasploit • CTF Platforms
-
-**Data** • PostgreSQL • MongoDB • Redis
-
-<br/>
-
-## Metrics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aureldsk02&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+### 💻 Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureldsk02&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & APIs
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🔐 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 <br/>
 
-## Principles
+---
 
-**Security First** — Every system is only as strong as its weakest link
+## 📊 GitHub Analytics
 
-**Elegant Solutions** — Complexity is easy; simplicity is an art
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aureldsk02&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" alt="Aurel's GitHub Stats" /> 
+  
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=aureldsk02&theme=dark&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+</div>
 
-**Continuous Learning** — The pursuit of knowledge is never complete
-
-**Impact Over Activity** — Build less, but build what matters
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureldsk02&layout=compact&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aureldsk02&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=c9d1d9&area=true&area_color=A78BFA" />
+</div>
 
 <br/>
 
 <div align="center">
+  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=aureldsk02&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-*"The two enemies of human happiness are pain and boredom."* — **Arthur Schopenhauer**
-
-I code to solve the first, and learn to avoid the second.
+</div>
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=aureldsk02&color=a78bfa&style=flat-square)
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" />
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Tilia](https://img.shields.io/badge/🌟_Tilia-E--commerce_Platform-A78BFA?style=for-the-badge)](https://github.com/aureldsk02/tilia)
+[![Security Tools](https://img.shields.io/badge/🔐_Security_Arsenal-Pentesting_Scripts-EA4335?style=for-the-badge)](https://github.com/aureldsk02)
+[![DevOps](https://img.shields.io/badge/⚙️_Infrastructure-CI/CD_Automation-FF9900?style=for-the-badge)](https://github.com/aureldsk02)
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 What I'm Learning
+
+```yaml
+cybersecurity:
+  focus: ["Advanced Exploitation", "Reverse Engineering", "Network Security"]
+  certifications: ["CEH", "OSCP"]
+  
+devops:
+  mastering: ["Kubernetes at Scale", "Terraform IaC", "Service Mesh"]
+  cloud: ["AWS Solutions Architect", "Multi-cloud Strategy"]
+  
+blockchain:
+  exploring: ["Smart Contract Security", "DeFi Architecture", "Layer 2 Solutions"]
+  
+philosophy:
+  principles: ["Security First", "Elegant Solutions", "Continuous Learning"]
+```
+
+<br/>
+
+---
+
+## 💡 Core Principles
+
+<div align="center">
+
+| 🔐 Security First | 🎨 Elegant Solutions | 📚 Continuous Learning | 🎯 Impact Over Activity |
+|:---:|:---:|:---:|:---:|
+| Every system is only as strong as its weakest link | Complexity is easy; simplicity is an art | The pursuit of knowledge is never complete | Build less, but build what matters |
+
+</div>
+
+<br/>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Open to collaborations, opportunities, and meaningful conversations**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-A78BFA?style=for-the-badge)](https://aureldsk.me/)
+[![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-EA4335?style=for-the-badge)](mailto:aurel.dossou-kohi@epitech.eu)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/aurel-dossou-kohi/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aureldsk02&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/><br/>
+
+<!-- Citation finale -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20problems%20are%20the%20ones%20that%20seem%20impossible%20at%20first&author=Aurel%20Dossou-Kohi" />
+
+<br/>
+
+<!-- Footer wave premium -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,2,5,6&section=footer" width="100%"/>
 
 </div>
