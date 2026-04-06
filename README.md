@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Bannière WAOH avec effet 3D -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,2,5,6&text=AUREL%20DOSSOU-KOHI&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Cybersecurity%20Researcher%20•%20Cloud%20Architect&descSize=20&descAlignY=55&animation=twinkling&stroke=A78BFA&strokeWidth=2" width="100%"/>
-
-<!-- Effet de typing stylé -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=100&lines=The+will+to+create+is+everything+💜;Building+solutions+that+matter+🚀;Code+•+Security+•+Innovation+⚡;Always+learning%2C+always+building+🎯" alt="Typing SVG" />
-</a>
+<div align="center">
+<!-- Bannière personnalisée -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=240&text=Aurel%20Dossou-Kohi&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20DevOps%20Explorer&descAlignY=55&animation=twinkling" width="100%"/>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+solutions+that+matter;Passionate+about+cybersecurity;Always+learning%2C+always+coding" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -55,7 +53,6 @@ class Aurel:
         
     def current_focus(self):
         return {
-            "building": "Tilia - E-commerce platform for artisans",
             "mastering": ["Advanced Pentesting", "Cloud Architecture", "Smart Contracts"],
             "certifications": ["CEH", "OSCP"],
             "exploring": "Intersection of security, DevOps, and blockchain"
@@ -150,8 +147,7 @@ class Aurel:
 ## 🚀 Featured Projects
 
 <div align="center">
-
-[![Tilia](https://img.shields.io/badge/🌟_Tilia-E--commerce_Platform-A78BFA?style=for-the-badge)](https://github.com/aureldsk02/tilia)
+  
 [![Security Tools](https://img.shields.io/badge/🔐_Security_Arsenal-Pentesting_Scripts-EA4335?style=for-the-badge)](https://github.com/aureldsk02)
 [![DevOps](https://img.shields.io/badge/⚙️_Infrastructure-CI/CD_Automation-FF9900?style=for-the-badge)](https://github.com/aureldsk02)
 
@@ -212,11 +208,6 @@ philosophy:
 ![Profile Views](https://komarev.com/ghpvc/?username=aureldsk02&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/><br/>
-
-<!-- Citation finale -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20problems%20are%20the%20ones%20that%20seem%20impossible%20at%20first&author=Aurel%20Dossou-Kohi" />
-
-<br/>
 
 <!-- Footer wave premium -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,2,5,6&section=footer" width="100%"/>
