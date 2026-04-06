@@ -152,17 +152,7 @@ philosophy:
 <br/>
 
 ---
-
-## Core Principles
-
-<div align="center">
-
-| Security First | Elegant Solutions | Continuous Learning | Impact Over Activity |
-|:---:|:---:|:---:|:---:|
-| Every system is only as strong as its weakest link | Complexity is easy; simplicity is an art | The pursuit of knowledge is never complete | Build less, but build what matters |
-
-</div>
-
+![Aurel DSK's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureldsk02&show_icons=true&theme=radical)
 <br/>
 
 ---
