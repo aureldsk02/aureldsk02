@@ -35,7 +35,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 > *"The two enemies of human happiness are pain and boredom."* — I code to solve the first, and learn to avoid the second.
 
@@ -63,50 +63,50 @@ class Aurel:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Core
+### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🎨 Frontend Development
+### Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🔐 Cybersecurity
+### Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -118,7 +118,7 @@ class Aurel:
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aureldsk02&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" alt="Aurel's GitHub Stats" /> 
@@ -144,12 +144,12 @@ class Aurel:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
   
-[![Security Tools](https://img.shields.io/badge/🔐_Security_Arsenal-Pentesting_Scripts-EA4335?style=for-the-badge)](https://github.com/aureldsk02)
-[![DevOps](https://img.shields.io/badge/⚙️_Infrastructure-CI/CD_Automation-FF9900?style=for-the-badge)](https://github.com/aureldsk02)
+[![Security Tools](https://img.shields.io/badge/Security_Arsenal-Pentesting_Scripts-EA4335?style=for-the-badge)](https://github.com/aureldsk02)
+[![DevOps](https://img.shields.io/badge/Infrastructure-CI/CD_Automation-FF9900?style=for-the-badge)](https://github.com/aureldsk02)
 
 </div>
 
@@ -157,7 +157,7 @@ class Aurel:
 
 ---
 
-## 🎯 What I'm Learning
+## What I'm Learning
 
 ```yaml
 cybersecurity:
@@ -179,11 +179,11 @@ philosophy:
 
 ---
 
-## 💡 Core Principles
+## Core Principles
 
 <div align="center">
 
-| 🔐 Security First | 🎨 Elegant Solutions | 📚 Continuous Learning | 🎯 Impact Over Activity |
+| Security First | Elegant Solutions | Continuous Learning | Impact Over Activity |
 |:---:|:---:|:---:|:---:|
 | Every system is only as strong as its weakest link | Complexity is easy; simplicity is an art | The pursuit of knowledge is never complete | Build less, but build what matters |
 
@@ -193,7 +193,7 @@ philosophy:
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
