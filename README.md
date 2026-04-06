@@ -2,7 +2,7 @@
 
 <div align="center">
 <!-- Bannière personnalisée -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=240&text=Aurel%20Dossou-Kohi&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20DevOps%20Explorer&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" style="object-fit: cover;" />
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+solutions+that+matter;Passionate+about+cybersecurity;Always+learning%2C+always+coding" alt="Typing SVG" /></a>
 
