@@ -3,6 +3,11 @@
 <div align="center">
 <!-- Bannière personnalisée -->
 <img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" style="object-fit: cover;" />
+<div align="center">
+
+# Aurel DOSSOU KOHI
+
+</div>
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+solutions+that+matter;Passionate+about+cybersecurity;Always+learning%2C+always+coding" alt="Typing SVG" /></a>
 
