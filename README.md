@@ -139,28 +139,6 @@ I like building things that look simple on the outside, and stay solid under pre
 <br/>
 
 ---
-
-## What I'm Learning
-
-```yaml
-cybersecurity:
-  focus: ["Advanced Exploitation", "Reverse Engineering", "Network Security"]
-  certifications: ["CEH", "OSCP"]
-  
-devops:
-  mastering: ["Kubernetes at Scale", "Terraform IaC", "Service Mesh"]
-  cloud: ["AWS Solutions Architect", "Multi-cloud Strategy"]
-  
-blockchain:
-  exploring: ["Smart Contract Security", "DeFi Architecture", "Layer 2 Solutions"]
-  
-philosophy:
-  principles: ["Security First", "Elegant Solutions", "Continuous Learning"]
-```
-
-<br/>
-
----
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aureldsk02&theme=chartreuse-dark)](https://git.io/streak-stats)
 <br/>
 
@@ -181,8 +159,5 @@ philosophy:
 ![Profile Views](https://komarev.com/ghpvc/?username=aureldsk02&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/><br/>
-
-<!-- Footer wave premium -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,2,5,6&section=footer" width="100%"/>
 
 </div>
