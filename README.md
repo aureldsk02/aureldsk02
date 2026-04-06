@@ -126,13 +126,13 @@ class Aurel:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aureldsk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aureldsk02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aureldsk&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aureldsk02&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aureldsk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aureldsk02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aureldsk&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=667eea)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aureldsk02&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=667eea)
 
 </div>
 
@@ -142,7 +142,7 @@ class Aurel:
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=aureldsk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=aureldsk02&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -211,7 +211,7 @@ I'm always excited to discuss **interesting projects**, exchange ideas about tec
 <br/>
 
 <!-- Visiteurs compteur -->
-![Profile Views](https://komarev.com/ghpvc/?username=aureldsk&color=667eea&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=aureldsk02&color=667eea&style=for-the-badge)
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
