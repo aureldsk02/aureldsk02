@@ -116,24 +116,6 @@ class Aurel:
 
 <br/>
 
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aureldsk02&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" alt="Aurel's GitHub Stats" /> 
-  
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=aureldsk02&theme=dark&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureldsk02&layout=compact&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-  
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aureldsk02&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=c9d1d9&area=true&area_color=A78BFA" />
-</div>
-
-<br/>
-
 <div align="center">
   
 [![Trophy](https://github-profile-trophy.vercel.app/?username=aureldsk02&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
